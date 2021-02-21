@@ -6,7 +6,7 @@ This is the first project in the Python Mega Course on Udemy. I didn't follow th
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
-pip install requirements
+pip install requirements.txt
 ```
 ## Usage
 
