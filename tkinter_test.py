@@ -50,6 +50,7 @@ def translate():
 
 # Creating GUI
 window = tk.Tk()
+window.title("Simple dictionary")
 window.rowconfigure([0, 1, 2], minsize=40, weight=1)
 window.columnconfigure([0, 1, 2], minsize=40, weight=1)
 
