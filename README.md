@@ -11,7 +11,7 @@ pip install requirements.txt
 ## Usage
 
 You just need to run tkinter_test.py
-Here are the screenshot:
+Here is the screenshot:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40832101/108620610-d0e02e00-745f-11eb-9d75-bce1f6bb8fde.png" width="250" />
